@@ -12,6 +12,7 @@ public class Producto {
 
 	/**
 	 * Números de tipo real que serán los operandos de los métodos correspondientes
+	 * 
 	 */
 	double ope1, ope2,ope3;
 	
